@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #F0E68C;
+}
+/* #yu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+#tyu{
+    float: right;
+    display: inline;
+    margin-top: -90px;
+
+}
